@@ -3,8 +3,6 @@
 A modern, responsive **personal portfolio website** built using **React.js** to showcase my front-end projects, UI/UX skills, and professional journey.  
 The portfolio highlights real-world React applications, clean UI design, smooth navigation, and interactive user experience.
 
-🌐 **Live Demo:** https://urstrulybhavana-portfolio.netlify.app/
-
 ---
 
 ## 🚀 Features
@@ -67,21 +65,22 @@ src/
 └── App.css
 ```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-Clone the repository:  git clone https://github.com/UrstrulyBhavana/Bhavana-Linga-Front-End-Developer-Portfolio.git
+```
+ Clone the repository:  git clone https://github.com/UrstrulyBhavana/Bhavana-Linga-Front-End-Developer-Portfolio.git
 
-Navigate to the project directory: cd Bhavana-Linga-Front-End-Developer-Portfolio
+ Navigate to the project directory: cd Bhavana-Linga-Front-End-Developer-Portfolio
 
-Install dependencies: npm install
+ Install dependencies: npm install
 
-Run the app locally: npm start
+ Run the app locally: npm start
 
-📦 Build for Production:  npm run build
-
+ Build for Production:  npm run build
+```
 ---
 
-📬 Contact Form (EmailJS)
+## 📬 Contact Form (EmailJS)
 
 The contact form is integrated using EmailJS.
 To enable it:
@@ -100,7 +99,7 @@ REACT_APP_EMAILJS_PUBLIC_KEY=your_public_key
 ⚠️ .env file is intentionally not committed to GitHub.
 ---
 
-📌 Purpose of This Project
+## 📌 Purpose of This Project
 
 This portfolio is created to:
 
@@ -124,5 +123,5 @@ GitHub: https://github.com/UrstrulyBhavana
 This project is licensed under the MIT License.
 
 
-## ⭐ If you find this project useful or helpful, please consider starring and forking the repository — the code reflects continuous improvements and real-world enhancements.
+### ⭐ If you find this project useful or helpful, please consider starring and forking the repository — the code reflects continuous improvements and real-world enhancements.
 
